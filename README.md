@@ -1,8 +1,6 @@
 # MongoDB, Express, Vue.js 2, Node.js (MEVN) and SocketIO Chat App
 
-This source code is part of [MongoDB, Express, Vue.js 2, Node.js (MEVN) and SocketIO Chat App](https://www.djamware.com/post/5b6a681f80aca76a2cbd98fb/mongodb-express-vuejs-2-nodejs-mevn-and-socketio-chat-app) tutorial.
-
-> A Vue.js project
+> Vue.js Socket.io chat app
 
 ## Build Setup
 
@@ -29,4 +27,3 @@ npm run e2e
 npm test
 ```
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
